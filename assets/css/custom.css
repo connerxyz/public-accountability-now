@@ -1,0 +1,20 @@
+nav#nav {
+	display: none;
+}
+
+.pan {
+	font-size: 5rem;
+}
+
+body {
+	padding-top: 0;
+}
+
+#top {
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
+
+.wrapper {
+	padding-bottom: 5rem;
+}
