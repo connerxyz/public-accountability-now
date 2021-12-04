@@ -18,3 +18,12 @@ body {
 .wrapper {
 	padding-bottom: 5rem;
 }
+
+.mc-field-group {
+	margin-top: 1rem;
+}
+
+.email-sub-button {
+	margin-top: 1rem;
+	width: 200px !important;
+}
